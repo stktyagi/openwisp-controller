@@ -80,6 +80,17 @@ Once the background task completes:
 - The certificate is linked to the device.
 - The unique hardware fingerprint is encoded in the certificate extensions.
 
+- New Certificate option in template type
+  <img width="894" height="969" alt="image" src="https://github.com/user-attachments/assets/3860680e-20d6-4f53-95b5-635a7b9aac61" />
+
+- Toast notification after assigning that template to a device
+  <img width="908" height="970" alt="image" src="https://github.com/user-attachments/assets/aa7f0029-b057-4ee6-91bb-294f40ea3b79" />
+
+- Certificate generatin and MAC address in certificate extension
+  <img width="888" height="960" alt="image" src="https://github.com/user-attachments/assets/d9e6cc40-ba45-4c5c-bed0-5f5ea3fcbaed" />
+
+DEMO: 
+
 ---
 
 ## Key Features Verified
